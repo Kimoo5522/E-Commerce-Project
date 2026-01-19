@@ -61,10 +61,10 @@ const ProductDisplay = (props) => {
         <div className="product-display-right-size">
           <p>Choose Size</p>
           <div className="choose-size">
-            <div>SMALL</div>
-            <div>MEDIUM</div>
-            <div>LARGE</div>
-            <div>X-LARGE</div>
+            <div>S</div>
+            <div>M</div>
+            <div>L</div>
+            <div>XL</div>
           </div>
         </div>
 
